@@ -1,8 +1,9 @@
- ## Nama   : Pikri Ramdani <br>
- ## NIM    : 312010162 <br>
- ## Kelas  : TI.20 A.1 <br>
+ ## Nama        : Pikri Ramdani <br>
+ ## NIM         : 312010162 <br>
+ ## Kelas       : TI.20 A.1 <br>
+ ## MataKuliah  : Pemrograman Mobile
  <br>
- 
+
 # flutter_login_page
 
 A new Flutter project.
@@ -11,6 +12,7 @@ A new Flutter project.
 
 ```flutter pub get``` <br>
 ```flutter run```
+<br>
 
 ## Login view
 
