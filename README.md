@@ -1,9 +1,14 @@
+ ## Nama   : Pikri Ramdani <br>
+ ## NIM    : 312010162 <br>
+ ## Kelas  : TI.20 A.1 <br>
+ <br>
+ 
 # flutter_login_page
 
 A new Flutter project.
 
 ## Getting Started
- Nama : Pikri Ramdani <br>
+
 ```flutter pub get``` <br>
 ```flutter run```
 
