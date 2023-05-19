@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+ Nama : Pikri Ramdani <br>
 ```flutter pub get``` <br>
 ```flutter run```
 
